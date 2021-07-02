@@ -1,2 +1,2 @@
-# this is my teadme file 
+# this is my readme file 
 

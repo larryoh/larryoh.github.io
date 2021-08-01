@@ -5,8 +5,11 @@
 
 **Internal Links** 
 
-[about](about.md)
-[projects](projects.md)
-[posts](posts.md)
+[about][2]  
+[projects][3]  
+[posts][4] 
 
-[1]: original-readme.md
+[1]:	original-readme.md
+[2]:	about.md
+[3]:	projects.md
+[4]:	posts.md

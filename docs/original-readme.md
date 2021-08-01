@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-
+[home](index.md)
 
 You can use the [editor on GitHub](https://github.com/larryoh/larryoh.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 

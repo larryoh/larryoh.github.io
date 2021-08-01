@@ -6,4 +6,4 @@
 
 
 
-[1]: /docs/original-readme.md
+[1]: original-readme.md

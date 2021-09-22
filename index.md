@@ -27,9 +27,10 @@
 
 Links to [soundcloud](http://soundcloud.com/larryoh) x more
 
-**Internal Links** 
-[check out this original readme file][1]
-[about][2]
+**Internal Links**  
+
+[check out this original readme file][1]  
+[about][2]  
 
 
 

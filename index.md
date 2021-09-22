@@ -14,16 +14,26 @@
 
 ## Welcome to my GitHub Pages
 
+## Notes
+
+> Notey note note  
 
 
+## Projects 
+
+### Health 
+
+### Music 
+
+Links to [soundcloud](http://soundcloud.com/larryoh) x more
 
 **Internal Links** 
 [check out this original readme file][1]
-[about][2y
-ts][3] -->
+[about][2]
+<!-- [ts][3] -->
 <!--.[posts][4] -->
 
-{{/projects/project lists.md}}
+projects/project lists.md
 
 [1]:	/docs/original-readme.md
 [2]:	/pages/about.md

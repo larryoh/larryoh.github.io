@@ -1,13 +1,12 @@
-<html>
-       <style>
+<!-- <style>
         h1, h2, h3{
 	                        font-family: sans-serif;
 	}
 	    body {
 	                        font-family: monospace;{{}}
 	}
-        </style>
-<body>
+</style>
+ -->
 
 ## Welcome to my GitHub Pages
 
@@ -24,7 +23,7 @@
 
 Links to [soundcloud](http://soundcloud.com/larryoh) x more
 
-**Internal Links**  
+### Internal Links 
 
 [check out this original readme file][1]  
 [about][2]  
@@ -34,6 +33,6 @@ Links to [soundcloud](http://soundcloud.com/larryoh) x more
 [1]:	/docs/original-readme.md
 [2]:	/pages/about.md
 	
-%MARKDOWN%
+<!-- %MARKDOWN%
 </body>	
-</html>
+</html> -->

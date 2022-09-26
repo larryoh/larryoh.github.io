@@ -8,9 +8,12 @@
 	}
         </style>
 <body>
-
+%MARKDOWN%
 </body>
-</html>
+
+
+
+
 
 ## Welcome to my GitHub Pages
 
@@ -36,3 +39,6 @@ Links to [soundcloud](http://soundcloud.com/larryoh) x more
 
 [1]:	/docs/original-readme.md
 [2]:	/pages/about.md
+	
+	
+</html>
